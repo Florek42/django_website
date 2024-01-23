@@ -22,5 +22,11 @@ Finbook is a web application built with Django that serves as your personal fina
 ## 🚀 Future Updates
 
 Finbook is an evolving project, and here are some planned future updates:
-
+- mobile app
+- creating family groups
+- family group chats
+- ToDo lists for every family member
+- day/month/year planner
+- option to look back in the past to check all memories etc.
+- premium paid options
 
