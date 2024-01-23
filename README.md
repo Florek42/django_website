@@ -1,6 +1,6 @@
 # Finbook
 
-Welcome to Finbook – Your Financial Companion!
+Welcome to Finbook – Your Financial Companion! (The name is temporary)
 
 ## 🚀 Introduction
 
