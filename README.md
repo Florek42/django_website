@@ -18,6 +18,7 @@ Finbook is a web application built with Django that serves as your personal fina
 - Django
 - HTML/CSS
 - JavaScript
+- PostgreSQL
 
 ## 🚀 Future Updates
 
