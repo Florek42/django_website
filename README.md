@@ -1,10 +1,12 @@
 # Finbook
 
-Welcome to Finbook – Your Financial Companion! (The name is temporary)
+Welcome to Finbook – Your Financial Companion and Tools provider!
 
 ## What is FinBook?
+This is an application providing access to various functionalities for individuals and business clients, such as:
+a flat valuation application, a car parts price and availability checker, a tax calculator, and a home budget manager.
 
-FinBook is an all-in-one financial application that aims to simplify various financial tasks and empower users with a suite of web tools. Whether you're budgeting, tracking expenses, or planning investments, FinBook offers a user-friendly platform for managing your finances.
+FinBook is an all-in-one financial application made in Django that aims to simplify various financial tasks and empower users with a suite of web tools such as . Whether you're budgeting, tracking expenses, or planning investments, FinBook offers a user-friendly platform for managing your finances.
 
 ## 💡 Key Features
 
